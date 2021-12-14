@@ -2,7 +2,7 @@
 2022년 학부 졸업프로젝트2 
 
 * * *
-제목: 코딩테스트 AI 튜터
+# 제목: 코딩테스트 AI 튜터
 
 * * *
 
@@ -15,14 +15,17 @@
 + DMOJ와 같은 오픈소스 SW의 코딩테스트 웹사이트에 코딩테스트 오류에 대한 추천답을 하는 챗봇 웹 서비스 개발 
 
 # 필요기술
-+ 코딩테스트 지식: 자료구조, 알고리즘 코딩 테스트 경험 필요
++ 코딩테스트 지식: 자료구조, 알고리즘 분야별 대표 코딩 테스트 오류 수정 능력 필요
 + 프론트엔드개발: 웹 서비스 개발 필요
 + 백엔드개발: web server, DB, cloud 활용 서버 개발
-+ 챗봇: 자연언어처리, 
++ 코드오류분석: 학생들 코딩테스트 오류 데이터 분석(프로그래밍 언어, 컴파일러 지식)
++ 챗봇: 자연언어처리, 프로그래밍 문법 처리
++ 공개SW DMOJ 지식: 코딩테스트 공개SW로 DMOJ 활용 계획
 
 
 # 예상결과
-연합학습기반 자동차 블랙박스 모바일 앱 
+DMOJ 웹 사이트의 챗봇 서비스
+
 
 # 신청방법 및 선정결과
 1. 아래 신청사유 적어서 'Pull Request'를 요청
@@ -38,7 +41,6 @@
 
 
 # 참고문헌
-1. [Google  AI Blog](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
-2. [Tensorflow Federated](https://www.tensorflow.org/federated/federated_learning)
-3. [Federated learning paper by 문현수](https://www.mdpi.com/2079-9292/10/1/27/pdf)
-4. [2021년 4학년 연합학습 주제 졸업프로젝트](https://cnuswaiproject.wixsite.com/2021-2/post/%EC%97%B0%ED%95%A9%ED%95%99%EC%8A%B5%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B5%AD%EB%82%B4-%EC%97%AC%ED%96%89%EC%A7%80-%EC%B6%94%EC%B2%9C-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98)
+1. [DMOJ coding test github project](https://github.com/DMOJ)
+2. [코딩테스트 데이터 분석 논문, 2021, 문현수](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09874619&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR)
+3. [코딩테스트 자동튜터링 방법, 2020, 김지혜](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10529782&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR)
