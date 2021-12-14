@@ -37,9 +37,7 @@ DMOJ 웹 사이트의 챗봇 서비스
 * 
 *
 
-
-
 # 참고문헌
 1. [DMOJ coding test github project](https://github.com/DMOJ)
-2. [코딩테스트 데이터 분석 논문, 2021, 문현수](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09874619&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR)
+2. [코딩테스트 데이터 분석 논문, 2020, 문현수](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09874619&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR)
 3. [코딩테스트 자동튜터링 방법, 2020, 김지혜](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10529782&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR)
