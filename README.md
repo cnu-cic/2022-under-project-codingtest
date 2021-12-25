@@ -38,6 +38,8 @@ DMOJ 웹 사이트의 챗봇 서비스
 * 
 *
 
+[![DNlab Intro](http://img.youtube.com/vi/GYiM7HGzs80/0.jpg)](https://youtu.be/GYiM7HGzs80)
+
 # 참고문헌
 1. [DMOJ coding test github project](https://github.com/DMOJ)
 2. [코딩테스트 데이터 분석 논문, 2020, 문현수](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09874619&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR)
